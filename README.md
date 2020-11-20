@@ -6,4 +6,4 @@ State Machine Design Pattern Project<br/>
    - JumpState<br/>
    - SlideState<br/>
    - DashState<br/>
- To use this file either import it into Repl.it or Compile and run it on your own system
+To use this file either import it into Repl.it or Compile and run it on your own system
